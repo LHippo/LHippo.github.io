@@ -1,3 +1,6 @@
+---
+permalink: index.html
+---
 # LHippo
 
 ## Qui suis-je ?
