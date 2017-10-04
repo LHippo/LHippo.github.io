@@ -20,3 +20,5 @@ Je suis actuellement en formation chez Simplon afin de me reconvertir en **déve
 ## Demain
 Mon projet professionnel, serai de continuer mes études pour codé des jeux vidéo.
 
+[Me contacter](contact.html)
+
