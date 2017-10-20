@@ -1,4 +1,5 @@
 ---
+layout: monsite
 permalink: index.html
 ---
 # LHippo
