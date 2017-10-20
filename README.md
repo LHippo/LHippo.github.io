@@ -1,6 +1,6 @@
 ---
 layout: monsite
-permalink: monsite.html
+permalink: index.html
 ---
 # LHippo
 Ma Landing Page: https://wireframe.cc/9bgkQi
